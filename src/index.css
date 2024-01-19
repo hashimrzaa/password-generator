@@ -1,0 +1,99 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url(https://w0.peakpx.com/wallpaper/400/451/HD-wallpaper-plant-leaves-water-drops-dark-background-nature.jpg);
+    overflow: hidden;
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 110px;
+    border: 3px solid white;
+    overflow: hidden;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    font-size: 50px;
+    text-wrap: wrap;
+    text-align: center;
+    padding: 10px;
+}
+
+.h2 {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: 5px;
+}
+
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    height: auto;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+
+
+.svg {
+    margin-left: 15px;
+}
+
+.svg2 {
+    margin-left: 5px;
+
+}
+
+.two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+
+span {
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.range {
+    width: 250px;
+}
+
+.three {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    align-items: center;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+.four {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    font-size: 18px;
+    align-items: center;
+}
